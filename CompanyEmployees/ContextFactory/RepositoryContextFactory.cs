@@ -15,7 +15,6 @@ namespace CompanyEmployees.ContextFactory
 
             // Log or debug to check the configuration values
             var connectionString = configuration.GetConnectionString("sqlConnection");
-            Console.WriteLine($"ConnectionString: {connectionString}");
 
             var builder = new DbContextOptionsBuilder<RepositoryContext>()
             .UseSqlServer(connectionString, b => b.MigrationsAssembly("CompanyEmployees"));
