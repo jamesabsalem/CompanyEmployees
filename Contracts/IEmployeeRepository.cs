@@ -1,4 +1,4 @@
-﻿namespace Contracts
+﻿namespace Contract
 {
     public interface IEmployeeRepository
     {

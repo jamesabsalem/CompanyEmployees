@@ -5,13 +5,13 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyEmployees", "CompanyEmployees\CompanyEmployees.csproj", "{91CC1A51-5846-4241-8C33-3281026DA415}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{9B1E7214-FE8D-400D-9B03-24F7040A2187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contract", "Contracts\Contract.csproj", "{9B1E7214-FE8D-400D-9B03-24F7040A2187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService.csproj", "{11BA52BD-C353-4CAD-BB8D-1665A5323DDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerService", "LoggerService\LoggerService.csproj", "{11BA52BD-C353-4CAD-BB8D-1665A5323DDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{9C7CDC72-6B91-48F1-BC61-F152951AF7CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{9C7CDC72-6B91-48F1-BC61-F152951AF7CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{38873766-D07B-4D8A-85CB-A4702FED9249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{38873766-D07B-4D8A-85CB-A4702FED9249}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

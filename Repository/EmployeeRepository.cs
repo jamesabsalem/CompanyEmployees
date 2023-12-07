@@ -1,4 +1,4 @@
-﻿using Contracts;
+﻿using Contract;
 using Entities;
 
 namespace Repository

@@ -1,4 +1,4 @@
-using Contracts;
+using Contract;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CompanyEmployees.Controllers

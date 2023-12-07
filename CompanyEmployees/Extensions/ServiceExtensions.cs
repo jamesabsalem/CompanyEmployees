@@ -1,4 +1,4 @@
-﻿using Contracts;
+﻿using Contract;
 using LoggerService;
 
 namespace CompanyEmployees.Extensions
